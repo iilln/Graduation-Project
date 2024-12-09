@@ -14,3 +14,14 @@ The results showed a high accuracy in classifying Arabic texts, with an accuracy
 - https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset
 ## Arabic Dataset
 - https://github.com/Ragsh/ArabicHateSpeech/tree/master
+
+  
+##
+## Prepare By:
+- Norah Fahad Alhafi 
+- Anwar Mohammed Alomair
+- Shiam Mohammed Alhassn
+- Latefah Mohammed Alnasser
+- Rawan Awad Alfreedy
+
+
